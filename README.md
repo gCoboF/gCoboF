@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cobo Figueiro</h1>
 <h3 align="center">BC&T | UFABC</h3>
 
-- 🌱 I’m currently learning **C#, Java, JavaScript and Phyton**
+- 🌱 I’m currently learning **C#, Java, JavaScript and Python**
 
 - 🤝 Computer Science Student at Federal University of ABC **(UFABC)**
 
